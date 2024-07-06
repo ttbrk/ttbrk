@@ -12,7 +12,7 @@
 <br>Github mainly posts things created as a hobby.
 -  My hobbies are badminton and watching anime!
 <br>Click here to watch anime
-<br>&emsp;&emsp;->&emsp;http://animelog.starfree.jp/index.html
+<br>&emsp;&emsp;->http://animelog.starfree.jp/index.html
 - 📫 How to reach me: [Twitter - @ttbrk2](https://twitter.com/@ttbrk2)
 <br>
 
